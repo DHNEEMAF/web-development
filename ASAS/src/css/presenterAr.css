@@ -1,0 +1,86 @@
+body {
+    background-color: #fff;
+}
+
+.form {
+    background-color: rgb(73, 90, 88);
+    color: #fff;
+    text-align: right;
+    width: 600px;
+    height: 800px;
+    position: absolute;
+    left: 600px;
+    top: 60px;
+    border-radius: 5px;
+}
+
+.text1{
+    text-align: center;
+}
+
+.items {
+    position: relative;
+}
+
+.text2, .text3, .text4, .text5, .text6, .text7 {
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.input1, .input2, .input3, .input4, .input5, .input6 {
+    width: 500px;
+    height: 20px;
+    border: none;
+    margin-right: 50px;
+    margin-top: -5px;
+}
+
+.button {
+    background-color: #fff;
+    border: none;
+    margin-right: 200px;
+    margin-top: 30px;
+    width: 200px;
+    height: 30px;
+    color: #000;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.home {
+    margin-right: 50px;
+    margin-top: -25px;
+    text-decoration: underline;
+    color: #fff;
+}
+
+@media(max-width: 1700px) {
+    .form {
+        left: 500px;
+    }
+}
+
+@media(max-width: 1500px) {
+    .form {
+        left: 400px;
+    }
+}
+
+@media(max-width: 1300px) {
+    .form {
+        left: 300px;
+    }
+}
+
+
+@media(max-width: 1100px) {
+    .form {
+        left: 200px;
+    }
+}
+
+@media(max-width: 1100px) {
+    .form {
+        left: 150px;
+    }
+}
