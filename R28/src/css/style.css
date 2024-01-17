@@ -1135,11 +1135,106 @@ a {
     transition: 2s;
 }
 
+@media(max-width: 1800px) {
+    .box10 {
+        left: 380px;
+    }
+
+    .box11 {
+        left: 650px;
+    }
+
+    .box12 {
+        left: 920px;
+    }
+
+    .box13 {
+        left: 1190px;
+    }
+
+    .Toffer {
+        left: 700px;
+    }
+
+    .line3 {
+        left: 660px;
+    }
+}
+
 @media(max-width: 1700px) {
     .box4, .box5, .box6, .box7, .box8 {
         margin-left: -150px;
     }
+
+    .box10 {
+        left: 380px;
+    }
+
+    .box11 {
+        left: 650px;
+    }
+
+    .box12 {
+        left: 920px;
+    }
+
+    .box13 {
+        left: 1190px;
+    }
+
+    .img3 {
+        left: 900px;
+    }
+
+    .fa-id-card-o {
+        left: 550px;
+    }
+
+    .t1 {
+        left: 540px;
+    }
+
+    .t2 {
+        left: 520px;
+    }
+
+    .fa-user-circle-o {
+        left: 750px;
+    }
+
+    .t3 {
+        left: 740px;
+    }
+
+    .t4 {
+        left: 720px;
+    }
+
+    .fa-archive {
+        left: 950px;
+    }
+
+    .t5 {
+        left: 940px;
+    }
+
+    .t6 {
+        left: 910px;
+    }
+
+    .fa-trophy {
+        left: 1150px;
+    }
+
+    .t7{
+        left: 1145px;
+    }
+
+    .t8 {
+        left: 1125px;
+    }
 }
+
 @media(max-width: 1500px) {
     .background {
         right: 100px;
@@ -1169,6 +1264,114 @@ a {
     .box8 {
         left: 1250px;
     }
+
+    .offer {
+        left: 40px;
+    }
+
+    .offer h4 {
+        width: 180px;
+    }
+
+    .more2 {
+        margin-top: 50px;
+    }
+
+    .box9, .box10, .box11, .box12, .box13 {
+        width: 200px;
+    }
+
+    .box10 {
+        left: 330px;
+    }
+
+    .box11 {
+        left: 550px;
+    }
+
+    .box12 {
+        left: 770px;
+    }
+
+    .box13 {
+        left: 990px;
+    }
+
+    .Toffer {
+        left: 550px;
+    }
+
+    .line3 {
+        left: 510px;
+    }
+
+    .price1 {
+        left: 400px;
+    }
+
+    .price2 {
+        left: 700px;
+    }
+
+    .price3 {
+        left: 1000px;
+    }
+
+    .price {
+        left: 750px;
+    }
+
+    .line4 {
+        left: 720px;
+    }
+
+    .box14 {
+        left: 350px;
+    }
+
+    .box15 {
+        left: 650px;
+    }
+
+    .box16 {
+        left: 950px;
+    }
+
+    .img8 {
+        left: 300px;
+    }
+
+    .img9 {
+        left: 600px;
+    }
+
+    .img10 {
+        left: 900px;
+    }
+
+    .copy-right {
+        left: 600px;
+    }
+
+    .fa-instagram{
+        left: 400px;
+    }
+
+    .fa-twitter {
+        left: 600px;
+    }
+
+    .fa-twitch {
+        left: 800px;
+    }
+
+    .fa-youtube {
+        left: 1000px;
+    }
+
+    .fa-linkedin-square {
+        left: 1200px;
+    }
 }
 
 @media(max-width: 1400px) {
@@ -1195,12 +1398,131 @@ a {
     .box4, .box5, .box6, .box7, .box8 {
         margin-left: -180px;
     }
+
+    .img3 {
+        left: 800px;
+    }
+
+    .box14 {
+        left: 250px;
+    }
+
+    .box15 {
+        left: 550px;
+    }
+
+    .box16 {
+        left: 850px;
+    }
+
+    .img8 {
+        left: 200px;
+    }
+
+    .img9 {
+        left: 500px;
+    }
+
+    .img10 {
+        left: 800px;
+    }
+
+    .box17 {
+        margin-left: 500px;
+    }
+
+    .box17:hover {
+        margin-left: 500px;
+    }
+
+    .ai, .more7, .mining, .more8, .feature, .line7  {
+        margin-left: -200px;
+    }
+
+    .box18 {
+        margin-left: 800px;
+    }
+
+    .box18:hover {
+        margin-left: 800px;
+    }
+
+    .copy-right {
+        left: 500px;
+    }
+
+    .fa-instagram{
+        left: 300px;
+    }
+
+    .fa-twitter {
+        left: 500px;
+    }
+
+    .fa-twitch {
+        left: 700px;
+    }
+
+    .fa-youtube {
+        left: 900px;
+    }
+
+    .fa-linkedin-square {
+        left: 1100px;
+    }
 }
 
 @media(max-width: 1300px) {
     .background {
         right: 50px;
     }
+        .fa-id-card-o {
+            left: 350px;
+        }
+    
+        .t1 {
+            left: 340px;
+        }
+    
+        .t2 {
+            left: 320px;
+        }
+    
+        .fa-user-circle-o {
+            left: 550px;
+        }
+    
+        .t3 {
+            left: 540px;
+        }
+    
+        .t4 {
+            left: 520px;
+        }
+    
+        .fa-archive {
+            left: 750px;
+        }
+    
+        .t5 {
+            left: 740px;
+        }
+    
+        .t6 {
+            left: 710px;
+        }
+    
+        .fa-trophy {
+            left: 950px;
+        }
+    
+        .t7{
+            left: 945px;
+        }
+    
+        .t8 {
+            left: 925px;
+        }
 
     .block2 {
         position: absolute;
@@ -1225,6 +1547,110 @@ a {
 
     .box8 {
         left: 1090px;
+    }
+
+    .offer {
+        left: -50px;
+    }
+
+    .Pabout-us {
+        left: 60px;
+    }
+
+    .about-us {
+        left: 180px;
+    }
+
+    .button3 {
+        left: 150px;
+    }
+
+    .button4 {
+        left: 350px;
+    }
+
+    .img3 {
+        left: 650px;
+    }
+
+    .price1 {
+        left: 200px;
+    }
+
+    .price2 {
+        left: 500px;
+    }
+
+    .price3 {
+        left: 800px;
+    }
+
+    .price {
+        left: 550px;
+    }
+
+    .line4 {
+        left: 520px;
+    }
+
+    .box14 {
+        left: 200px;
+    }
+
+    .box15 {
+        left: 500px;
+    }
+
+    .box16 {
+        left: 800px;
+    }
+
+    .img8 {
+        left: 100px;
+    }
+
+    .img9 {
+        left: 400px;
+    }
+
+    .img10 {
+        left: 700px;
+    }
+
+    .box17, .box17:hover {
+        margin-left: 400px;
+    }
+
+    .ai, .more7, .mining, .more8, .feature, .line7  {
+        margin-left: -300px;
+    }
+
+    .box18, .box18:hover {
+        margin-left: 700px;
+    }
+
+    .copy-right {
+        left: 500px;
+    }
+
+    .fa-instagram{
+        left: 200px;
+    }
+
+    .fa-twitter {
+        left: 400px;
+    }
+
+    .fa-twitch {
+        left: 600px;
+    }
+
+    .fa-youtube {
+        left: 800px;
+    }
+
+    .fa-linkedin-square {
+        left: 1000px;
     }
 }
 
@@ -1260,6 +1686,154 @@ a {
 
     .box4, .box5, .box6, .box7, .box8 {
         margin-left: -200px;
+    }
+
+    .offer {
+        left: -100px;
+    }
+
+    .Pabout-us {
+        width: 400px;
+    }
+
+    .img3 {
+        width: 400px;
+        left: 560px;
+        top: 3350px;
+    }
+
+    .button3 {
+        left: 70px;
+        top: 3760px;
+        width: 150px;
+    }
+
+    .button4 {
+        left: 260px;
+        top: 3760px;
+        width: 150px;
+    }
+
+    .learnM {
+        font-size: 20px;
+        margin-left: 25px;
+    }
+
+    .ourE {
+        font-size: 20px;
+        margin-left: 10px;
+    }
+
+    .about-us {
+        left: 100px;
+    }
+
+    .fa-id-card-o {
+        left: 150px;
+    }
+
+    .t1 {
+        left: 140px;
+    }
+
+    .t2 {
+        left: 120px;
+    }
+
+    .fa-user-circle-o {
+        left: 350px;
+    }
+
+    .t3 {
+        left: 340px;
+    }
+
+    .t4 {
+        left: 320px;
+    }
+
+    .fa-archive {
+        left: 550px;
+    }
+
+    .t5 {
+        left: 540px;
+    }
+
+    .t6 {
+        left: 510px;
+    }
+
+    .fa-trophy {
+        left: 750px;
+    }
+
+    .t7{
+        left: 745px;
+    }
+
+    .t8 {
+        left: 725px;
+    }
+
+    .box14 {
+        left: 150px;
+    }
+
+    .box15 {
+        left: 400px;
+    }
+
+    .box16 {
+        left: 650px;
+    }
+
+    .img8 {
+        left: 50px;
+    }
+
+    .img9 {
+        left: 300px;
+    }
+
+    .img10 {
+        left: 550px;
+    }
+
+    .box17, .box17:hover {
+        margin-left: 300px;
+    }
+
+    .ai, .more7, .mining, .more8, .feature, .line7  {
+        margin-left: -400px;
+    }
+
+    .box18, .box18:hover {
+        margin-left: 600px;
+    }
+
+    .copy-right {
+        left: 400px;
+    }
+
+    .fa-instagram{
+        left: 100px;
+    }
+
+    .fa-twitter {
+        left: 300px;
+    }
+
+    .fa-twitch {
+        left: 500px;
+    }
+
+    .fa-youtube {
+        left: 700px;
+    }
+
+    .fa-linkedin-square {
+        left: 900px;
     }
 }
 
@@ -1322,6 +1896,105 @@ a {
         left: -25px;
     }
 
+    .box9, .box10, .box11, .box12, .box13 {
+        width: 180px;
+    }
+
+    .box10 {
+        left: 300px;
+    }
+
+    .box11 {
+        left: 490px;
+    }
+
+    .box12 {
+        left: 680px;
+    }
+
+    .box13 {
+        left: 870px;
+    }
+
+    .more2 {
+        margin-top: 25px;
+    }
+
+    .more3 {
+        margin-top: -10px;
+    }
+
+    .more4 {
+        margin-top: 30px;
+    }
+
+    .more6 {
+        margin-top: 25px;
+    }
+
+    .offer {
+        left: -60px;
+    }
+
+    .offer h4 {
+        width: 160px;
+    }
+
+    .price1 {
+        left: 100px;
+    }
+
+    .price2 {
+        left: 400px;
+    }
+
+    .price3 {
+        left: 700px;
+    }
+
+    .price {
+        left: 450px;
+    }
+
+    .line4 {
+        left: 420px;
+    }
+
+    .box17, .box17:hover {
+        margin-left: 300px;
+    }
+
+    .ai, .more7, .mining, .more8, .feature, .line7  {
+        margin-left: -400px;
+    }
+
+    .box18, .box18:hover {
+        margin-left: 600px;
+    }
+
+    .copy-right {
+        left: 300px;
+    }
+
+    .fa-instagram{
+        left: 150px;
+    }
+
+    .fa-twitter {
+        left: 300px;
+    }
+
+    .fa-twitch {
+        left: 450px;
+    }
+
+    .fa-youtube {
+        left: 600px;
+    }
+
+    .fa-linkedin-square {
+        left: 750px;
+    }
 }
 
 @media(max-width: 1000px) {
@@ -1356,5 +2029,37 @@ a {
 
     .mainMenu h3 {
         margin-left: -280px;
+    }
+
+    .price1 {
+        left: 50px;
+    }
+
+    .price2 {
+        left: 300px;
+    }
+
+    .price3 {
+        left: 550px;
+    }
+
+    .price {
+        left: 350px;
+    }
+
+    .line4 {
+        left: 320px;
+    }
+
+    .box17, .box17:hover {
+        margin-left: 200px;
+    }
+
+    .ai, .more7, .mining, .more8, .feature, .line7  {
+        margin-left: -500px;
+    }
+
+    .box18, .box18:hover {
+        margin-left: 500px;
     }
 }
