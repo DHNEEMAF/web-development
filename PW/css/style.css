@@ -66,6 +66,19 @@
     margin-left: 10px;
   }
   
+  /* Utility Classes */
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  .container-sm {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
   /* Hamburger Button */
   .hamburger-button {
     display: none;
