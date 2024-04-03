@@ -1,4 +1,4 @@
-* {
+  * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -73,12 +73,6 @@
     padding: 0 15px;
   }
   
-  .container-sm {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 15px;
-  }
-  
   /* Hamburger Button */
   .hamburger-button {
     display: none;
@@ -126,6 +120,53 @@
     font-size: 20px;
     transition: 0.3s;
   }
+
+  /* Head */
+  .head {
+    margin-bottom: 50px;
+    margin-top: 200px;
+  }
+
+  .head .head-content {
+    width: 70%;
+  }
+
+  .head .head-text {
+    width: 70%;
+    margin-bottom: 20px;
+  }
+
+  /* Buttons */
+  .btn {
+    display: inline-block;
+    padding: 13px 20px;
+    background: var(--light-color);
+    color: #333;
+    font-weight: 600;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    transition: 0.5s;
+  }
+  
+  .btn:hover {
+    opacity: 0.8;
+  }
+  
+  .btn-primary {
+    background: var(--primary-color);
+    color: #fff;
+  }
+
+  /* Text Classes */
+  .text-xxl {
+  font-size: 3rem;
+  line-height: 1.2;
+  font-weight: 600;
+  margin: 40px 0 20px;
+  }
   
   /* Media Queries */
   @media (max-width: 960px) {
@@ -143,55 +184,16 @@
       display: block;
     }
   
-    .hero .container {
-      background: url('../images/hero-bg-mobile.png') no-repeat;
-      background-size: 350px 400px;
-      background-position: bottom;
-      height: 770px;
-    }
-  
-    .hero .hero-content,
-    .hero .hero-text {
+    .head .head-content,
+    .head .head-text {
       width: 100%;
       text-align: center;
     }
   
-    .hero .hero-buttons .btn {
+    .head .head-buttons .btn {
       margin-bottom: 10px;
       display: block;
       width: 100%;
-    }
-  
-    .testimonials .testimonials-heading {
-      max-width: 100%;
-      text-align: center;
-    }
-  
-    .testimonials .testimonials-grid,
-    .pricing .pricing-grid,
-    .footer .footer-grid {
-      grid-template-columns: 1fr;
-    }
-  
-    .footer .card {
-      margin-right: 0;
-    }
-  
-    .footer .footer-grid > div {
-      text-align: center;
-    }
-  
-    /* Text */
-    .text-xl {
-      font-size: 1.9rem;
-    }
-  
-    .text-lg {
-      font-size: 1.5rem;
-    }
-  
-    .text-md {
-      font-size: 1.1rem;
     }
   }
   
@@ -200,4 +202,3 @@
       font-size: 2rem;
     }
   }
-  
